@@ -1,0 +1,6 @@
+/venv
+
+# List Links Downloader
+/list_links_downloader/downloads
+/list_links_downloader/links_download.csv
+/list_links_downloader/log_erros.csv
